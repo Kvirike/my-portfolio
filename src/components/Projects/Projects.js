@@ -27,7 +27,7 @@ function Projects() {
               imgPath={pomodoro}
               isBlog={false}
               title="Pomodoro Clock"
-              description="test"
+              description="Pomodoro is a learning technique. Set your timer for 25 minutes, and focus on a single task until the timer rings. When your session ends, then enjoy a five-minute break. This project is accomplished with React, Js and simples Css. One is also able to change timing of session/break according to their learning preferences."
               ghLink="https://github.com/Kvirike/pomodoro-clock?tab=readme-ov-file"
               demoLink="https://kvirike.github.io/pomodoro-clock/"
             />
@@ -38,7 +38,7 @@ function Projects() {
               imgPath={calculator}
               isBlog={false}
               title="JS Calculator"
-              description="test"
+              description="It’s a simple calculator made with React, Js and Css. The calculator can handle numeric input, perform basic arithmetic calculations, and display the results accordingly. Users can clear the display, clear the last element entered, and perform multiple calculations sequentially."
               ghLink="https://github.com/Kvirike/js-calculator?tab=readme-ov-file"
               demoLink="https://kvirike.github.io/js-calculator/"
             />
@@ -49,7 +49,7 @@ function Projects() {
               imgPath={previewer}
               isBlog={false}
               title="Markdown Prewiever"
-              description="test"
+              description="This markdown previewer is a HTML to -text conversion tool. It allows you to write HTML syntaxed script and gives you a plain text format. Thing is to give it correct cormat of HTML that is structurally valid. On the left side is the editor and on the right is the previewer. Simple HTML and basics of Js is used on this project."
               ghLink="https://github.com/Kvirike/Markdown-previewer?tab=readme-ov-file"
               demoLink="https://kvirike.github.io/Markdown-previewer/"              
             />
