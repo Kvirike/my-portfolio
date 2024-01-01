@@ -60,7 +60,7 @@ function Projects() {
               imgPath={jsPractise}
               isBlog={false}
               title="JS Practise"
-              description="test"
+              description="Js practice a github repository, in which interesting Javascript concepts and methods  are collected. You can see the whole range of array and object manipulations and mutations here, which is accomplished with Js ES7 and ES6 features. This project is updatable and will be modified according to personal prefference."
               ghLink="https://github.com/Kvirike/practice-Js"
               demoLink=""
             />
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={drumMachine}
               isBlog={false}
               title="Drum Machine"
-              description="test"
+              description="A drum machine is a project where one is able to play, drum beats  of any pattern. Drum machines may imitate drum kits or other percussion instruments, or produce unique sounds. The project is done with simple HTML, Js, Sass and is live as well as the others on the list."
               ghLink="https://github.com/Kvirike/Drum-Machine"
               demoLink="https://kvirike.github.io/Drum-Machine/"
             />
