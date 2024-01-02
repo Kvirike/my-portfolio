@@ -335,6 +335,17 @@ button:focus {
   font-size: 1.2em !important;
   text-align: left;
 }
+.aboutMe{
+  font-size: 1.55em;
+}
+@media (max-width:600px) {
+  .aboutMe{
+    font-size: 15px;
+  }
+  .row{
+    padding-top: 30px;
+  }
+}
 
 .home-about-social {
   text-align: center !important;
