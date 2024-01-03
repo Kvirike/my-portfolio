@@ -358,6 +358,10 @@ button:focus {
   position: relative !important;
   padding-inline-start: 0 !important;
 }
+.myImg{
+  border-radius: 10em;
+  width: 15em;
+}
 
 .home-social-icons {
   position: relative !important;

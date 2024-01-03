@@ -17,8 +17,8 @@ function Footer() {
           
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Stay Hungry, stay foolish</h3>
-          <h3>Steve Jobs</h3>
+          <h3>"Inside of every problem lies an opportunity"</h3>
+          <h3>Robert Kiyosaki</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -44,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F"
+                href="https://www.linkedin.com/in/kvirike-kemularia-6586942a7/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
