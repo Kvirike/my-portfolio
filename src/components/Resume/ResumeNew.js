@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-// import pdf from "../../Assets/../Assets/kvirikeCV.pdf";
+import pdf from "../../Assets/../Assets/kvirikeCV.pdf";
 import frontEndPic from "../../Assets/certificates/front-end.png";
 import jsPic from "../../Assets/certificates/js.png";
 import { AiOutlineDownload } from "react-icons/ai";
@@ -30,7 +30,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            // href={pdf}
+            href={pdf}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
