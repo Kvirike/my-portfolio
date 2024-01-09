@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.589addbe.css",
-    "main.js": "/my-portfolio/static/js/main.ced168e3.js",
+    "main.js": "/my-portfolio/static/js/main.a931ac6c.js",
     "static/js/787.5c0b2d12.chunk.js": "/my-portfolio/static/js/787.5c0b2d12.chunk.js",
     "static/media/front-end.png": "/my-portfolio/static/media/front-end.6379a35428c755693755.png",
     "static/media/home-main.svg": "/my-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/js.png": "/my-portfolio/static/media/js.a8334b10a4ab8f162732.png",
+    "static/media/kvirikeCV.pdf": "/my-portfolio/static/media/kvirikeCV.adfb104099356e73c5e1.pdf",
     "static/media/drumMachine.png": "/my-portfolio/static/media/drumMachine.eaa31b3084d8ee73893b.png",
     "static/media/markdownPreviewer.png": "/my-portfolio/static/media/markdownPreviewer.cb1b7ba5c40bd073a035.png",
     "static/media/avatar.png": "/my-portfolio/static/media/avatar.c5e791ca93ad43f130d5.png",
@@ -19,11 +20,11 @@
     "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my-portfolio/index.html",
     "main.589addbe.css.map": "/my-portfolio/static/css/main.589addbe.css.map",
-    "main.ced168e3.js.map": "/my-portfolio/static/js/main.ced168e3.js.map",
+    "main.a931ac6c.js.map": "/my-portfolio/static/js/main.a931ac6c.js.map",
     "787.5c0b2d12.chunk.js.map": "/my-portfolio/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.589addbe.css",
-    "static/js/main.ced168e3.js"
+    "static/js/main.a931ac6c.js"
   ]
 }
