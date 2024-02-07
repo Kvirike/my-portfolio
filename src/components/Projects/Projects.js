@@ -8,6 +8,8 @@ import jsPractise from "../../Assets/Projects/jsPractise.png";
 import pomodoro from "../../Assets/Projects/pomodoro.png";
 import drumMachine from "../../Assets/Projects/drumMachine.png";
 import calculator from "../../Assets/Projects/calculator.png";
+import weather from "../../Assets/Projects/weatherApp.png";
+import countryInfo from "../../Assets/Projects/countryInfo.png";
 import { Prev } from "react-bootstrap/esm/PageItem";
 
 function Projects() {
@@ -52,6 +54,28 @@ function Projects() {
               description="This markdown previewer is a HTML to-text conversion tool. It allows you to write HTML script and gives you a plain text format. Thing is to give it correct cormat of HTML that is structurally valid. On the left side is the editor and on the right is the previewer. Simple HTML and basics of Js is used on this project"
               ghLink="https://github.com/Kvirike/Markdown-previewer?tab=readme-ov-file"
               demoLink="https://kvirike.github.io/Markdown-previewer/"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={weather}
+              isBlog={false}
+              title="Weather App"
+              description="Weather app is a responsive project made with React.js. In this project I used the weather API which gives detailed information about temperature, wind speed, humidity, name of the city and country. When user opens the web, it provides the weather according to users location. Also one is able to search for the it with city/town or country name."
+              ghLink="https://github.com/Kvirike/weather-app"
+              demoLink="https://kvirike.github.io/weather-app"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={countryInfo}
+              isBlog={false}
+              title="Country Finder"
+              description="Country finder allows a person to search for any countries information. It provides provides updated information, mainly: the name, capital, population and continent. Project is done with React.js and Fetch is used to get data from API which contains the details on 200+ countries. Simple css is used in this project also and It is fully responsive."
+              ghLink="https://github.com/Kvirike/country-web"
+              demoLink="https://kvirike.github.io/country-web"
             />
           </Col>
 
