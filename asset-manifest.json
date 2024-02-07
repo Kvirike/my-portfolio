@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.de40a0da.css",
-    "main.js": "/my-portfolio/static/js/main.a931ac6c.js",
+    "main.js": "/my-portfolio/static/js/main.0d07466c.js",
     "static/js/787.5c0b2d12.chunk.js": "/my-portfolio/static/js/787.5c0b2d12.chunk.js",
     "static/media/front-end.png": "/my-portfolio/static/media/front-end.6379a35428c755693755.png",
     "static/media/home-main.svg": "/my-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -12,19 +12,21 @@
     "static/media/markdownPreviewer.png": "/my-portfolio/static/media/markdownPreviewer.cb1b7ba5c40bd073a035.png",
     "static/media/avatar.png": "/my-portfolio/static/media/avatar.c5e791ca93ad43f130d5.png",
     "static/media/quoteApp.png": "/my-portfolio/static/media/quoteApp.f2617557610a5a3c8b67.png",
+    "static/media/countryInfo.png": "/my-portfolio/static/media/countryInfo.a3826563eb7fa68123e3.png",
     "static/media/calculator.png": "/my-portfolio/static/media/calculator.9992aa5a71fe0d3671aa.png",
     "static/media/jsPractise.png": "/my-portfolio/static/media/jsPractise.e13636ff0e6eb2fd8c57.png",
     "static/media/pomodoro.png": "/my-portfolio/static/media/pomodoro.8cdf08601027e6fb00c4.png",
     "static/media/logo.png": "/my-portfolio/static/media/logo.6125368eb780bce197b0.png",
+    "static/media/weatherApp.png": "/my-portfolio/static/media/weatherApp.4043bdec3e729bea186e.png",
     "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my-portfolio/index.html",
     "main.de40a0da.css.map": "/my-portfolio/static/css/main.de40a0da.css.map",
-    "main.a931ac6c.js.map": "/my-portfolio/static/js/main.a931ac6c.js.map",
+    "main.0d07466c.js.map": "/my-portfolio/static/js/main.0d07466c.js.map",
     "787.5c0b2d12.chunk.js.map": "/my-portfolio/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de40a0da.css",
-    "static/js/main.a931ac6c.js"
+    "static/js/main.0d07466c.js"
   ]
 }
